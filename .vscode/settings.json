@@ -1,0 +1,20 @@
+{
+    "launch": {
+        "configurations": [
+
+        ]
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\jherr\\OneDrive\\Documentos\\Analisis\\PaginaPruebas\\.venv\\Scripts\\python.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "python.testing.unittestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-p",
+        "*.py"
+    ],
+    "python.testing.autoTestDiscoverOnSaveEnabled": true
+}
